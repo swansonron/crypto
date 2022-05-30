@@ -1,0 +1,42 @@
+<VirtualHost *:80>
+                ServerAlias www.cryptodragonies.org
+                ServerAdmin email@exampleple.com
+                ServerName cryptodragonies.org
+                WSGIScriptAlias / /var/www/crypto/crypto.wsgi
+                <Directory /var/www/crypto/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+                Alias /static /var/www/crypto/static
+                <Directory /var/www/crypto/static/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+                ErrorLog ${APACHE_LOG_DIR}/error.log
+                LogLevel warn
+                CustomLog ${APACHE_LOG_DIR}/access.log combined
+                Redirect permanent / https://cryptodragonies.org
+</VirtualHost>
+
+
+<VirtualHost *:443>
+                ServerName cryptodragonies.org
+                ServerAlias www.cryptodragonies.org
+                ServerAdmin email@example.com
+                SSLCertificateFile /var/www/crypto/ssl/ssl.crt
+                SSLCertificateKeyFile /var/www/crypto/ssl/ssl.key
+                SSLCertificateChainFile /var/www/crypto/ssl/ssl.ca-bundle
+                WSGIScriptAlias / /var/www/crypto/crypto.wsgi
+                <Directory /var/www/crypto/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+                Alias /static /var/www/crypto/static
+                <Directory /var/www/crypto/static/>
+                        Order allow,deny
+                        Allow from all
+                </Directory>
+                ErrorLog ${APACHE_LOG_DIR}/error.log
+                LogLevel warn
+                CustomLog ${APACHE_LOG_DIR}/access.log combined
+</VirtualHost>

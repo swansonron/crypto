@@ -1,0 +1,424 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\css\all.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff
+Content Type: application/octet-stream
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\ajax\libs\font-awesome\5.15.4\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://fonts.cdnfonts.com/css/snap-itc
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\css\snap-itc
+Content Type: text/css
+
+Uri: https://fonts.cdnfonts.com/s/57122/SNAP____.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\57122\SNAP____.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4hdg.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\creepster\v13\AlZy_zVUqJz4yMrniH4hdg.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/creepster/v13/AlZy_zVUqJz4yMrniH4Rcn35fh4Dog.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\creepster\v13\AlZy_zVUqJz4yMrniH4Rcn35fh4Dog.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aXw.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9aXw.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXd0oJC8MLnbtrVK.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXd0oJC8MLnbtrVK.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0oJC8MLnbtg.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXh0oJC8MLnbtg.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXV0oJC8MLnbtrVK.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXV0oJC8MLnbtrVK.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0oJC8MLnbtrVK.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXx0oJC8MLnbtrVK.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/montserrat/v24/JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oJC8MLnbtrVK.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\montserrat\v24\JTUFjIg1_i6t8kCHKm459Wx7xQYXK0vOoz6jq6R9WXZ0oJC8MLnbtrVK.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7V1g.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLCz7Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4V1g.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLDD4Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6V1g.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLEj6Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9V1g.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9V1g.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z11lFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1JlFd2JQEl8qw.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiByp8kv8JHgFVrLGT9Z1xlFd2JQEk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrFJM.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiEyp8kv8JHgFVrFJM.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJbecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJfecnFHGPc.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/poppins/v20/pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\poppins\v20\pxiEyp8kv8JHgFVrJJnecnFHGPezSQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK0nR.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK0nR.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nbivNm4I81PZQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nbivNm4I81PZQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nRivNm4I81PZQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nRivNm4I81PZQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nVivNm4I81.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nWivNm4I81PZQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nWivNm4I81PZQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v14/e3t4euO8T-267oIAQAu6jDQyK3nYivNm4I81PZQ.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\pressstart2p\v14\e3t4euO8T-267oIAQAu6jDQyK3nYivNm4I81PZQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXNc1bJ7HE5YDoGPuzj19FUbFRnmSs0QA.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXNc1bJ7HE5YDoGPuzj19FUbFRnmSs0QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXNc1bJ7HE5YDoGPuzj19pUbFRnmSs0QA.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXNc1bJ7HE5YDoGPuzj19pUbFRnmSs0QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXNc1bJ7HE5YDoGPuzj19RUbFRnmSs.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXNc1bJ7HE5YDoGPuzj19RUbFRnmSs.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXNc1bJ7HE5YDoGPuzj19tUbFRnmSs0QA.woff2
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXNc1bJ7HE5YDoGPuzj19tUbFRnmSs0QA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQwBm7w0.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQwBm7w0.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQxfm7w0.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQxfm7w0.woff
+Content Type: font/woff
+
+Uri: https://fonts.gstatic.com/s/readexpro/v9/SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQxtm7w0.woff
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\s\readexpro\v9\SLXYc1bJ7HE5YDoGPuzj_dh8na74KiwZQQxtm7w0.woff
+Content Type: font/woff
+
+Uri: https://www.cryptodragonies.com/
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\index.htm
+Content Type: text/html
+
+Uri: https://www.cryptodragonies.com/background3.webp
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\background3.webp
+Content Type: image/webp
+
+Uri: https://www.cryptodragonies.com/favicon.ico
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://www.cryptodragonies.com/logo3.png
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\logo3.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/mint-bg-big.webp
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\mint-bg-big.webp
+Content Type: image/webp
+
+Uri: https://www.cryptodragonies.com/mint-bg.webp
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\mint-bg.webp
+Content Type: image/webp
+
+Uri: https://www.cryptodragonies.com/OpenSea-icon.svg
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\OpenSea-icon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.cryptodragonies.com/planet.webp
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\planet.webp
+Content Type: image/webp
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F1.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\1-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F1.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F2.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\2-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F2.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\2.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F3.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\3-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F3.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\3.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F4.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\4-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F4.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\4.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F5.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\5-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F5.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\5.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F6.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\6-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F6.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\6.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F7.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\7-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F7.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\7.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F8.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\8-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F8.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\8.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F9.png&w=384&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\9-1.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/image?url=%2FRunningDragon%2F9.png&w=750&q=75
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\9.png
+Content Type: image/png
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/061e6b60-7663215c22dc49e1.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\061e6b60-7663215c22dc49e1.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/26dfdb1e-7170068766cccdbe.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\26dfdb1e-7170068766cccdbe.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/4172-def92092da8c2488.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\4172-def92092da8c2488.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/4949-7b3ec9dff9f0a780.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\4949-7b3ec9dff9f0a780.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/6550-2608fc23be9d21ea.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\6550-2608fc23be9d21ea.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/d0447323-50f434710a32c45a.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\d0447323-50f434710a32c45a.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/d64684d8-0636a74d9cf84392.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\d64684d8-0636a74d9cf84392.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/framework-63f178b04a9d87b4.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\framework-63f178b04a9d87b4.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/main-ed7911b88b530df0.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\main-ed7911b88b530df0.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/pages/index-1a5598ab34b91253.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\pages\index-1a5598ab34b91253.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/pages/_app-70d96e4a37070184.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\pages\_app-70d96e4a37070184.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/polyfills-5cd94c89d3acac5f.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\polyfills-5cd94c89d3acac5f.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/chunks/webpack-709a37eb0dce75ae.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\chunks\webpack-709a37eb0dce75ae.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/css/10bd556b8547f235.css
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\css\10bd556b8547f235.css
+Content Type: text/css
+
+Uri: https://www.cryptodragonies.com/_next/static/css/9b77ebd3c66eabec.css
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\css\9b77ebd3c66eabec.css
+Content Type: text/css
+
+Uri: https://www.cryptodragonies.com/_next/static/VfPOWezgNeJvVpU4gnzg0/_buildManifest.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\VfPOWezgNeJvVpU4gnzg0\_buildManifest.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/VfPOWezgNeJvVpU4gnzg0/_middlewareManifest.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\VfPOWezgNeJvVpU4gnzg0\_middlewareManifest.js
+Content Type: application/javascript
+
+Uri: https://www.cryptodragonies.com/_next/static/VfPOWezgNeJvVpU4gnzg0/_ssgManifest.js
+File Name: C:\Downloaded Web Sites\www.cryptodragonies.com\_next\static\VfPOWezgNeJvVpU4gnzg0\_ssgManifest.js
+Content Type: application/javascript
+

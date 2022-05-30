@@ -1,0 +1,8 @@
+﻿@font-face {
+    font-family: 'Snap ITC';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Snap ITC'), url('../s/57122/SNAP____.woff') format('woff');
+}
+
+
